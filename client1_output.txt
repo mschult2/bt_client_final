@@ -1,0 +1,16 @@
+Found peerlist.txt.  Adding peers...
+Starting to download 
+Handshake with peer : 127.0.0.1 was successful.
+pizza.jpg 12.5 % complete. (16 kB downloaded)   -   peers: 1 / 1   -   
+pizza.jpg 25.0 % complete. (32 kB downloaded)   -   peers: 1 / 1   -   dl rate: 74 kB/s
+pizza.jpg 37.5 % complete. (48 kB downloaded)   -   peers: 1 / 1   -   dl rate: 76 kB/s
+pizza.jpg 50.0 % complete. (64 kB downloaded)   -   peers: 1 / 1   -   dl rate: 76 kB/s
+pizza.jpg 62.5 % complete. (80 kB downloaded)   -   peers: 1 / 1   -   dl rate: 76 kB/s
+pizza.jpg 75.0 % complete. (96 kB downloaded)   -   peers: 1 / 1   -   dl rate: 76 kB/s
+pizza.jpg 87.5 % complete. (112 kB downloaded)   -   peers: 1 / 1   -   dl rate: 76 kB/s
+pizza.jpg 100.0 % complete. (128 kB downloaded)   -   peers: 1 / 1   -   dl rate: 76 kB/s
+
+~~~~~~~~~~~ pizza.jpg download complete! ~~~~~~~~~~~
+
+The tracker gave me 1 peers
+I have 1 good peers
